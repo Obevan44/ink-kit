@@ -13,7 +13,9 @@ pnpm install @inkonchain/ink-kit
 ```
 
 ## Usage
-
+npm install @inkonchain/ink-kit
+# or
+pnpm install @inkonchain/ink-kit
 ```tsx
 // Import styles first at the root of your project (required)
 import "@inkonchain/ink-kit/style.css";
