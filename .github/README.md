@@ -22,7 +22,7 @@ import "@inkonchain/ink-kit/style.css";
 ```tsx
 // Import components as needed
 import { Button } from "@inkonchain/ink-kit";
-
+Update
 function App() {
   return (
     <div>
